@@ -1,0 +1,11 @@
+A4p1:
+output is:
+y is 42
+
+A4p2:
+output is:
+y is 24
+
+A4p3:
+output is:
+q=2, r=7, r2=8, v=2.875
