@@ -1,0 +1,15 @@
+# ninja log v5
+56	1045	6717690961782803	CMakeFiles/Homework.dir/A1/A1p2.c.obj	b87d7a658e21cc99
+194	1195	6717690963232732	CMakeFiles/Homework.dir/A3/A3p1.c.obj	97740c60ea4cfe2
+299	1190	6717690963671699	CMakeFiles/Homework.dir/A4/A4p6.c.obj	10d8476a8daf1aa3
+150	1159	6717690962623147	CMakeFiles/Homework.dir/A3/A3p2.c.obj	8cdfa22bd3832282
+84	1147	6717690961821212	CMakeFiles/Homework.dir/A4/A4p5.c.obj	119e3d39af2daa07
+5	1163	6717690962914158	CMakeFiles/Homework.dir/A1/A1p1.c.obj	2a452c1b81d0b2c5
+173	1151	6717690962043240	CMakeFiles/Homework.dir/A4/A4p4.c.obj	13cb19f81182fe69
+345	1239	6717690964030142	CMakeFiles/Homework.dir/A5/myMain.c.obj	8fba4323fe69366
+469	1245	6717690963844771	CMakeFiles/Homework.dir/A5/mySource.c.obj	701baffe3f423d8d
+104	573	6717691005400050	CMakeFiles/Homework.dir/hello.c.obj	ec030c7adf6f47a1
+134	587	6717691005533990	CMakeFiles/Homework.dir/A6/A6p1.c.obj	4d9dca1423bb6e45
+197	670	6717691006532869	CMakeFiles/Homework.dir/A8/A8p1.cpp.obj	b5414c34f41b344a
+7	390	6717691544467481	CMakeFiles/Homework.dir/A5/A5p3.c.obj	8199ba0fbb08238a
+2	496	6717692912659170	build.ninja	789f56c88d3c7c8f
